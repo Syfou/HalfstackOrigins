@@ -6,3 +6,6 @@ YOU NEED BOTH .jar FILES DIRECTLY IN YOUR MODS FOLDER (YES THIS MEANS THE SOURCE
 DEPENDENCIES:
 The main Origins mod, found here: https://www.curseforge.com/minecraft/mc-mods/origins
 This is a Fabric mod so you will need the Fabric Loader and Fabric API: https://fabricmc.net 
+
+1.0 added loong Origin
+1.1 added Fairy Origin
