@@ -8,8 +8,10 @@ The main Origins mod, found here: https://www.curseforge.com/minecraft/mc-mods/o
 This is a Fabric mod so you will need the Fabric Loader and Fabric API: https://fabricmc.net 
 Pehkui, for the resizing https://www.curseforge.com/minecraft/mc-mods/pehkui
 
-1.0 added loong Origin
+1.0 added Loong Origin
 
 1.1 added Fairy Origin
 
-1.1.0 Fixed Fairy Origin
+1.1.0 Fixed Fairy Origin bugs
+
+1.2 added Tonttu Origin
