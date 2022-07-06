@@ -19,3 +19,5 @@ Pehkui, for the resizing https://www.curseforge.com/minecraft/mc-mods/pehkui
 1.3 added Karkinos Origin
 
 1.4 added Wulver Origin
+
+1.5 added Kelpie Origin
