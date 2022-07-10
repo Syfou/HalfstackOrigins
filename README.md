@@ -26,3 +26,5 @@ Pehkui, for the resizing https://www.curseforge.com/minecraft/mc-mods/pehkui
 1.4 added Wulver Origin
 
 1.5 added Kelpie Origin
+
+1.6 Bugfixes, updated to 1.19
