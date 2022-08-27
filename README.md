@@ -28,3 +28,5 @@ Pehkui, for the resizing https://www.curseforge.com/minecraft/mc-mods/pehkui
 1.5 added Kelpie Origin
 
 1.6 Bugfixes, updated to 1.19, added Qilin
+
+1.7 added Taotie Origin
